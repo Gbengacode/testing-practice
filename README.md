@@ -6,7 +6,7 @@
 
 ## Built With
 
-- Major languages (HTML, CSS, JavaScript)
+- Major languages (JavaScript)
 - Frameworks 
 - Technologies used - JAVASCRIPT, JEST
 
